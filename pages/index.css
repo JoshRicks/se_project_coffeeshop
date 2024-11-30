@@ -50,6 +50,12 @@
   margin-top: 183px;
   display: flex;
   flex-direction: column;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: -0.6px;
 }
 .header__description {
   max-width: 683px;
@@ -92,21 +98,13 @@
   line-height: 20px;
   color: #6f6f6f;
 }
-.header__title_blue {
+.header__span-accent {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
-}
-.header__title_black {
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 60px;
-  line-height: 72px;
-  letter-spacing: -0.6px;
 }
 .recipes {
   color: #fff;
