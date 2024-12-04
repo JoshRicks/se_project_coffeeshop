@@ -34,6 +34,7 @@
   width: 100%;
   border-radius: 4px;
   background-color: #1878dc;
+  border: none;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -47,7 +48,7 @@
 .form__button:hover {
   background-color: #3f96f3;
 }
-.form__checkbox-label {
+.form__label_type_checkbox {
   display: flex;
   justify-content: center;
   font-family: "Inter", Arial, sans-serif;
